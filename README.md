@@ -1,0 +1,1 @@
+This is a responsive and visually appealing landing page created for UI/UX design services. It allows customers to explore and order custom design services. This project focuses on the frontend development using HTML and CSS.
